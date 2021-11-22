@@ -14,16 +14,16 @@
 
 -----
 
-1. 코랩 yolo 훈련
+1. 코랩 yolo 환경 설정
 
-2. 코랩 yolo 데이터셋
+2. 코랩 yolo 데이터셋 (CVAT 데이터 라벨링)
 
-3. yolo 실습
+3. 코랩 yolo 훈련
 yolo3, yolo4
 
 --------------
 
-1. opencv + yolo 실습
+1. 코랩 opencv + yolo 실습
 
 2. 자율주행 영상에서 상황인지 적용 실습
 
