@@ -21,13 +21,15 @@ yolo3, yolo4
 
 3. 코랩 yolo 환경 설정
 
-4. Yolo4, MobileNet 이론
+4. 코랩 opencv + yolo 실습
 
-5. 코랩 opencv + yolo 실습
+5. Yolo4, MobileNet 이론
 
 --------------
 
-1. 코랩 자율주행 영상에서 상황인지 적용 실습
+1. 코랩 yolo 환경 설정
 
-2. 카메라 + 디바이스 시연 (Yolo, SSD)
+2. 코랩 자율주행 영상에서 상황인지 적용 실습
+
+3. 카메라 + 디바이스 시연 (Yolo, SSD)
    Nvidia Jetson Jetpack4.5
