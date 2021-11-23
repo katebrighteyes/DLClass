@@ -12,6 +12,9 @@
 
 6. 코랩 ssd 훈련+실습
 
+* 추가 도전 예제
+https://drive.google.com/file/d/1uuAhfjJcSgTaIbwY38TVTsFbvC939ZBF/view?usp=sharing
+
 -----
 
 1. 코랩 yolo 데이터셋 (CVAT 데이터 라벨링)
