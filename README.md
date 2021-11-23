@@ -15,6 +15,9 @@
 * 추가 도전 예제
 https://drive.google.com/file/d/1uuAhfjJcSgTaIbwY38TVTsFbvC939ZBF/view?usp=sharing
 
+* 향후 사용하실 영상 파일
+https://drive.google.com/file/d/1k-O-NWFzfD-e1eZ4LR8Aa9X1bL1Hk8Et/view?usp=sharing
+
 -----
 
 1. 코랩 yolo 데이터셋 (CVAT 데이터 라벨링)
